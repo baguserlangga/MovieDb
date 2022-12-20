@@ -1,6 +1,6 @@
 package com.example.moviesapps.Model
 
-data class modelGenres(
+data class GenresModel(
     val id : Int,
     val  name :String
 )
